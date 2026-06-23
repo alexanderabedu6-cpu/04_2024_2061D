@@ -41,7 +41,7 @@ import java.util.Scanner;
                 academicClass = "Second Class Lower";
             } else {
                 academicClass = "Pass";
-            }git
+            }
 
 
             // Display formatted student profile
